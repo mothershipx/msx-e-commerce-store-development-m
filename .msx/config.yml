@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: E-commerce Store Development, Migration, and Optimization
+slug: e-commerce-store-development-m
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: e-commerce-store-development-m.msx.dev
