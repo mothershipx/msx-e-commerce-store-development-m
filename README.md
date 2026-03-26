@@ -4,7 +4,7 @@
 
 > E-commerce businesses, from luxury brands to small freelancers, consistently need expert help to build, migrate, optimize, and manage their online stores (Shopify, WooCommerce). Common pain points include low conversion rates, complex product management (variants, inventory), seamless social media integration, and a lack of affordable, user-friendly social media scheduling tools with client approval workflows.
 
-### [Live Preview](https://mothershipx.github.io/msx-e-commerce-store-development-m/)
+### 🔗 [Live Preview →](https://mothershipx.github.io/msx-e-commerce-store-development-m/)
 
 **Category:** ecommerce · **Score:** 92/100 · **Status:** Pre-MVP
 
@@ -30,13 +30,13 @@ This product addresses the core pain points above with a simple, focused solutio
 
 ## MVP Features
 
-- **Continuous AI Optimization** — Let an intelligent agent manage your store's performance, adapting to trends and customer behavior 24/7.
-- **Automated Content Creation** — Generate perfect product listings, SEO-rich descriptions, and stunning visuals in seconds, not hours.
-- **Zero-Stress Migrations** — Move your entire store to any platform with AI precision, eliminating complexity and downtime.
+- **AI-Powered Product Storytelling** — Generate engaging, social-ready descriptions, captions, and video scripts in seconds from your existing catalog.
+- **Real-time Inventory Sync** — Keep product availability and pricing perfectly consistent across all your social storefronts and main e-commerce platform.
+- **Collaborate & Convert** — Streamline client approvals for social content and track conversion performance effortlessly, all in one place.
 
 ## Tech Stack
 
-`Generative AI (GPT-4/LLMs, Diffusion Models for visuals)` · `Reinforcement Learning (for autonomous optimization)` · `Graph Databases (for product/customer relationships)` · `Real-time Data Analytics Platform (Kafka/Spark)` · `Headless E-commerce API Integrations`
+`Next.js (React)` · `Node.js (Express) / Python (FastAPI)` · `PostgreSQL` · `OpenAI API` · `Vercel`
 
 ## Revenue Model
 
