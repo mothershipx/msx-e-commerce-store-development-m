@@ -28,6 +28,12 @@
 
 This product addresses the core pain points above with a simple, focused solution that can generate revenue from day 1. The opportunity score of 92/100 indicates strong market demand with manageable competition.
 
+## MVP Features
+
+- **Continuous AI Optimization** — Let an intelligent agent manage your store's performance, adapting to trends and customer behavior 24/7.
+- **Automated Content Creation** — Generate perfect product listings, SEO-rich descriptions, and stunning visuals in seconds, not hours.
+- **Zero-Stress Migrations** — Move your entire store to any platform with AI precision, eliminating complexity and downtime.
+
 ## Tech Stack
 
 `Generative AI (GPT-4/LLMs, Diffusion Models for visuals)` · `Reinforcement Learning (for autonomous optimization)` · `Graph Databases (for product/customer relationships)` · `Real-time Data Analytics Platform (Kafka/Spark)` · `Headless E-commerce API Integrations`
